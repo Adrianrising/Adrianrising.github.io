@@ -90439,7 +90439,7 @@ A.ajG.prototype={
 $0(){A.Nn(this.a,"/ppmPage",t.X)},
 $S:0}
 A.Nh.prototype={
-H(a){return new A.Am("/splash",A.aW7(),"Bhone Myint Thu's portfolio",A.ap(),!1,null)}}
+H(a){return new A.Am("/splash",A.aW7(),"Bhone Myint Thu",A.ap(),!1,null)}}
 A.aeW.prototype={
 $1(a){return B.mF},
 $S:515}
